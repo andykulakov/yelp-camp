@@ -1,0 +1,28 @@
+html {
+    min-height: 100vh;
+    position: relative;
+}
+
+body {
+    margin-bottom: 30px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form {
+    display: inline;
+}
